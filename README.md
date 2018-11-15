@@ -1,4 +1,12 @@
 # BooheeRuler
+   基于大佬的https://github.com/totond/BooheeRuler 修改，添加了新的样式如下：
+
+   ![新样式](https://github.com/DarkSherlock/BooheeRuler-master/blob/master/imgaes/newBooheeRuler.png)
+    当然也修改了一些自定义属性，修改不多，看demo的用法就知道，光标cursor抽象出去了，也可以自己选择定制cursor的样式。
+    如果不需要用到这个新样式，建议还是用大佬原版控件，如果需要用到新样式，可直接复制代码过去，并没有上传到jcenter中央仓库中。
+
+    --------------------------------分割线 以下为原版README----------------------------------------------
+
 　　这是仿写薄荷健康里面体重选择尺的控件，因为最新的0.1.x版本经历重大更新（重构，把尺子分成多种形式），所以重新写一个README来介绍（旧的README在[这里](https://github.com/totond/BooheeRuler/blob/master/README_0.0.7.md)）：
  > 最初是为了参加HenCoder的[活动](https://juejin.im/post/59ed6453f265da43200265fb)，最后也获奖了，谢谢HenCoder凯哥！
 
